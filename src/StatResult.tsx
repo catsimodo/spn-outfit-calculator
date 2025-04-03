@@ -1,5 +1,5 @@
 import React from "react";
-import { Sword, Wind, Heart, Activity, Shield, Zap, Droplet, Sparkles } from "lucide-react";
+import { Sword, Wind, Heart } from "lucide-react";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs"; // Adjust the path to where your Tabs component is
 
 interface FinalStatsProps {
